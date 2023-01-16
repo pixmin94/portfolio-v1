@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Message Board'
-cover: './halcyon.png'
+cover: './messageboard.png'
 github: 'https://github.com/pixmin94/login-message-board'
 external: 'https://pixmin94.github.io/login-message-board/'
 tech:
